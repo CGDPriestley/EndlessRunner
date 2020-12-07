@@ -927,3 +927,83 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.12.07-10.19.16:314][  0]LogAssetRegistry: Asset discovery search completed in 6.2877 seconds
 [2020.12.07-10.19.16:317][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2020.12.07-10.19.16:366][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.07-10.25.14:064][735]LogSlate: Window 'Source Control Login' being destroyed
+[2020.12.07-10.29.20:023][594]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.07-10.29.20:046][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.12.07-10.29.20:612][594]LogSavePackage: Moving 'D:/matt/unreal/EndlessRunner/Saved/ThirdPersonExampleMap9541E5AD408C3E459CF215A768B814C1.tmp' to 'D:/matt/unreal/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.12.07-10.29.20:696][594]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData" FILE="D:/matt/unreal/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" SILENT=true
+[2020.12.07-10.29.20:798][594]LogSavePackage: Moving 'D:/matt/unreal/EndlessRunner/Saved/ThirdPersonExampleMap_BuiltData9A3EB93241B4E62A4CA4738B702F0E32.tmp' to 'D:/matt/unreal/EndlessRunner/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.12.07-10.29.20:804][594]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.07-10.29.20:804][594]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.12.07-10.29.20:804][594]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2020.12.07-10.29.23:218][880]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.27:591][353]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-10.29.36:020][353]LogSlate: Window 'Submit Files' being destroyed
+[2020.12.07-10.29.37:310][353]LogSourceControl: commit successful: [main e176c95] Start point
+[2020.12.07-10.29.37:354][353]SourceControl: [main e176c95] Start point
+[2020.12.07-10.29.37:354][353]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2020.12.07-10.29.37:358][353]SourceControl: Commited [main e176c95] Start point.
+[2020.12.07-12.58.17:453][365]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb148890-879e-4cbc-a499-7b1e09a1f5fe}.
+[2020.12.07-12.58.17:454][365]LogTemp: Resetting audio stream to device id 
+[2020.12.07-12.58.17:485][365]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-12.58.17:485][365]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-13.01.42:026][975]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{309df342-ba39-4bf5-b6ec-b0741413766a}.
+[2020.12.07-13.01.42:026][975]LogTemp: Resetting audio stream to device id 
+[2020.12.07-13.01.42:041][975]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-13.01.42:041][975]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-14.03.20:097][214]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb148890-879e-4cbc-a499-7b1e09a1f5fe}.
+[2020.12.07-14.03.20:097][214]LogTemp: Resetting audio stream to device id 
+[2020.12.07-14.03.20:113][214]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-14.03.20:113][214]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-14.21.50:492][531]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{309df342-ba39-4bf5-b6ec-b0741413766a}.
+[2020.12.07-14.21.50:492][531]LogTemp: Resetting audio stream to device id 
+[2020.12.07-14.21.50:563][531]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-14.21.50:563][531]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-14.30.11:222][ 22]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb148890-879e-4cbc-a499-7b1e09a1f5fe}.
+[2020.12.07-14.30.11:222][ 22]LogTemp: Resetting audio stream to device id 
+[2020.12.07-14.30.11:243][ 22]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-14.30.11:243][ 22]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-14.30.19:918][ 48]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{309df342-ba39-4bf5-b6ec-b0741413766a}.
+[2020.12.07-14.30.19:918][ 48]LogTemp: Resetting audio stream to device id 
+[2020.12.07-14.30.20:024][ 48]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-14.30.20:024][ 48]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-14.39.50:332][748]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fb148890-879e-4cbc-a499-7b1e09a1f5fe}.
+[2020.12.07-14.39.50:332][748]LogTemp: Resetting audio stream to device id 
+[2020.12.07-14.39.50:375][748]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.07-14.39.50:375][748]LogAudioMixer: Display: 1: FrontRight
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/FX/Niagara/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/MovieScene/MovieRenderPipeline/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:869][988]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'D:/matt/unreal/EndlessRunner'
+[2020.12.07-14.49.32:979][988]EditorErrors: Warning: No assets to check in!
